@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+env/
+
+# PyCharm files
+.idea/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# OS generated files
+.DS_Store
+*.log
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/

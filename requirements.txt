@@ -1,0 +1,8 @@
+# To install dependencies, users can run: pip install requirements.txt
+yfinance
+pandas
+numpy
+matplotlib
+tkinter  # Included with Python, no separate install needed
+tensorflow
+scikit-learn  # For MinMaxScaler
