@@ -11,23 +11,28 @@ A Python-based graphical tool to analyze and predict the risk of a stock portfol
 - Dark-mode, user-friendly GUI with clear visualizations.
 
 ## Installation
-1. Clone the repository:
-   ```bash
+
+### 1. Clone the repository:
+   bash:
+
    git clone https://github.com/bgilbert0112/StockPortfolioRiskPredictor.git
    cd StockPortfolioRiskPredictor
    
-Create a virtual environment (optional but recommended):
-bash
+### 2. Create a virtual environment (optional but recommended):
+
+bash:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the required dependencies:
-bash
+
+### 3. Install the required dependencies:
+
+bash:
 pip install -r requirements.txt
 Run the application:
 bash
 python portfolio_risk.py
 
-Usage
+### 4. Usage
 
 Launch the application by running python portfolio_risk.py.
 Enter a stock ticker (e.g., TSLA) in the "Ticker" field.
@@ -41,7 +46,7 @@ The graph will show the portfolio risk over time, including historical volatilit
 Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-Support the Developer
+### 5. Support the Developer
 
 Love this program? Want to buy me a coffee to support further development? Your support is greatly appreciated! You can send a donation via Bitcoin to the following wallet address:
 
